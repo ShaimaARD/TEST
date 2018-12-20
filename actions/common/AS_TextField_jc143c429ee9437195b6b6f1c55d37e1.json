@@ -1,0 +1,26 @@
+{
+    "AS_TextField_jc143c429ee9437195b6b6f1c55d37e1": {
+        "id": "AS_TextField_jc143c429ee9437195b6b6f1c55d37e1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "uwue53688c9ffe4a1989032da66b7096b7",
+            "type": "userwidgets",
+            "KUID": "ue53688c9ffe4a1989032da66b7096b7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a276a274917c415483589eb396f14e9c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (this.view.Container6PinDot1.TxtFld6PinDot1.text.length == 1) {\n  this.view.Container6PinDot1.TxtFld6PinDot1.setFocus(false);\n  this.view.Container6PinDot1.TxtFld6PinDot1.skin = \"PinDotFilled\";\n  this.view.Container6PinDot2.TxtFld6PinDot2.setFocus(true);\n} else if (this.view.Container6PinDot1.TxtFld6PinDot1.text.length == 0) {\n  this.view.Container6PinDot1.TxtFld6PinDot1.skin = \"PinDotFocus\";\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

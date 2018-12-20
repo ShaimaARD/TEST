@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "5"
+    },
+    "_skin_": "sdec9d86a2db4e3fbbe9fdf2089600ca",
+    "_text_": "Ask Doctor",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7a79ad8926d4a6fab933e802d751939",
+    "id": "AskDoctorButton",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e3dfdaaa80794e02a1ec9a3db90b17f6",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_h0b1ad9c4f194cee88e1628efd606b76",
+    "parent": "ContainerLeft2",
+    "pf": "HomePage",
+    "tabpaneId": "TabPane0c425fd75aa5d41",
+    "wType": "Button",
+    "zindex": 1
+}

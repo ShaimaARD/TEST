@@ -1,0 +1,29 @@
+{
+    "AS_Button_ef723911417d4bde9f28df7f8b88f5dc": {
+        "id": "AS_Button_ef723911417d4bde9f28df7f8b88f5dc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomePage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a822a8ca4ed1427a970905cc1b2b4b45"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e57e9dc079404bc48d8dc28210c01e70",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "DoctorsPage",
+            "formKUID": "jfd0ad29833d4c8cb2306e018a4da083",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

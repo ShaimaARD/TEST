@@ -1,0 +1,29 @@
+{
+    "AS_Button_bcb3d7ce8e694237abc6553591292865": {
+        "id": "AS_Button_bcb3d7ce8e694237abc6553591292865",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomePage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a822a8ca4ed1427a970905cc1b2b4b45"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___i5ecb87322314cdeb68f2d68793dbd6c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "DrugsPage",
+            "formKUID": "c4810f9402b04ebaa3fe0ae871576e7e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

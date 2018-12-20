@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "110dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd56674d2d86411eb32671429cb6f457",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "-17dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "FBox0aa66c7b9d7d04a",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "Image0e70b9efb5e1a40",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h9b94bbc52da4f7091659c5f0bffed28",
+    "name": "kony.ui.Image2",
+    "parent": "CopyFBox0ad2baf83d27d4a",
+    "pf": "CopyFBox0ad2baf83d27d4a",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

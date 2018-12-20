@@ -1,0 +1,103 @@
+{
+    "HEAD": "w7c4c68c30fe42a7b2b20385b9d4186a",
+    "w0f240754b894ebb9c2ee7c67915a5b3": {
+        "children": [
+            "w4f2a9b77ab04c89ab94a9f35c6c7345"
+        ],
+        "kuid": "w0f240754b894ebb9c2ee7c67915a5b3",
+        "name": "css",
+        "parent": "w788f3cdc3534cfc969057d6c1bc24de",
+        "type": "D"
+    },
+    "w412d78044e94407b3497a9ed10f3a3f": {
+        "extension": "xml",
+        "kuid": "w412d78044e94407b3497a9ed10f3a3f",
+        "name": "config.xml",
+        "parent": "w7c4c68c30fe42a7b2b20385b9d4186a",
+        "type": "F"
+    },
+    "w4f2a9b77ab04c89ab94a9f35c6c7345": {
+        "extension": "css",
+        "kuid": "w4f2a9b77ab04c89ab94a9f35c6c7345",
+        "name": "index.css",
+        "parent": "w0f240754b894ebb9c2ee7c67915a5b3",
+        "type": "F"
+    },
+    "w6d20dffb0be4f1f8c4a6f78ba375345": {
+        "extension": "js",
+        "kuid": "w6d20dffb0be4f1f8c4a6f78ba375345",
+        "name": "index.js",
+        "parent": "we8ceeaa8aae4ac68efb786ed0c5ffa7",
+        "type": "F"
+    },
+    "w788f3cdc3534cfc969057d6c1bc24de": {
+        "children": [
+            "w0f240754b894ebb9c2ee7c67915a5b3",
+            "w998716536444fe8bf2987b973de6b83",
+            "wf965f54a40f4236a21e2551c87cb9fe",
+            "we8ceeaa8aae4ac68efb786ed0c5ffa7"
+        ],
+        "kuid": "w788f3cdc3534cfc969057d6c1bc24de",
+        "name": "www",
+        "parent": "w7c4c68c30fe42a7b2b20385b9d4186a",
+        "type": "D"
+    },
+    "w7c4c68c30fe42a7b2b20385b9d4186a": {
+        "children": [
+            "w412d78044e94407b3497a9ed10f3a3f",
+            "wfe7dbedebde4e04bb9ace53548f5032",
+            "w788f3cdc3534cfc969057d6c1bc24de"
+        ],
+        "kuid": "w7c4c68c30fe42a7b2b20385b9d4186a",
+        "name": "cordova",
+        "type": "C"
+    },
+    "w89d56fdd16845afa33380468b66b008": {
+        "extension": "md",
+        "kuid": "w89d56fdd16845afa33380468b66b008",
+        "name": "README.md",
+        "parent": "wfe7dbedebde4e04bb9ace53548f5032",
+        "type": "F"
+    },
+    "w998716536444fe8bf2987b973de6b83": {
+        "children": [
+            "we8c6ff343b04779bf76c9b784d5cff9"
+        ],
+        "kuid": "w998716536444fe8bf2987b973de6b83",
+        "name": "img",
+        "parent": "w788f3cdc3534cfc969057d6c1bc24de",
+        "type": "D"
+    },
+    "we8c6ff343b04779bf76c9b784d5cff9": {
+        "extension": "png",
+        "kuid": "we8c6ff343b04779bf76c9b784d5cff9",
+        "name": "logo.png",
+        "parent": "w998716536444fe8bf2987b973de6b83",
+        "type": "F"
+    },
+    "we8ceeaa8aae4ac68efb786ed0c5ffa7": {
+        "children": [
+            "w6d20dffb0be4f1f8c4a6f78ba375345"
+        ],
+        "kuid": "we8ceeaa8aae4ac68efb786ed0c5ffa7",
+        "name": "js",
+        "parent": "w788f3cdc3534cfc969057d6c1bc24de",
+        "type": "D"
+    },
+    "wf965f54a40f4236a21e2551c87cb9fe": {
+        "extension": "html",
+        "kuid": "wf965f54a40f4236a21e2551c87cb9fe",
+        "name": "index.html",
+        "parent": "w788f3cdc3534cfc969057d6c1bc24de",
+        "type": "F"
+    },
+    "wfe7dbedebde4e04bb9ace53548f5032": {
+        "children": [
+            "w89d56fdd16845afa33380468b66b008"
+        ],
+        "kuid": "wfe7dbedebde4e04bb9ace53548f5032",
+        "name": "hooks",
+        "parent": "w7c4c68c30fe42a7b2b20385b9d4186a",
+        "type": "D"
+    }
+}

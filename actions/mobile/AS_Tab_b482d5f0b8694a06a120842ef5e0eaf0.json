@@ -1,0 +1,18 @@
+{
+    "AS_Tab_b482d5f0b8694a06a120842ef5e0eaf0": {
+        "id": "AS_Tab_b482d5f0b8694a06a120842ef5e0eaf0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomePage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a822a8ca4ed1427a970905cc1b2b4b45"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

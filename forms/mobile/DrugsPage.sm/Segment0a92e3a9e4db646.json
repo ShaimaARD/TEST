@@ -1,0 +1,186 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "zim.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "15 DL"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zimax 500 tab"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "aug.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "13 DL"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Augmentin 625 tab"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "pro.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "26 DL"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Prospan syrup"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "sum.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "26 DL"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Suprax 400mg tab"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "dup.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "30 DL"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Duphalac suspension"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "pan.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10 DL"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Panadol 625mg tab"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "f9c393b4b8334a729b5e768854c2f38c",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0a92e3a9e4db646",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a36864d2e0f646a19fcd11181ab89618",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "DrugsPage",
+    "pf": "DrugsPage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "f9c393b4b8334a729b5e768854c2f38c",
+    "rowcounter": 5,
+    "rowfocusskin": "s6fcea9be1f448f188b75164b53c142f",
+    "rowskin": "scc3ba071511414fb5f109faa8b4dfe6",
+    "rowtemplate": "CopyFBox0ad2baf83d27d4a",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s4d36433360c4e44ab58086ffc6583f7",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Image0e70b9efb5e1a40": "Image0e70b9efb5e1a40",
+        "Label0f6b5618cac574e": "Label0f6b5618cac574e",
+        "Label0i319112af96f4b": "Label0i319112af96f4b"
+    }
+}

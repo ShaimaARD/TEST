@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTab",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_image_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc259339c00d4c8f86fc736b8101c544",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "SquaredButtonDouble1",
+        "SquaredButtonDouble2",
+        "SquaredButtonDouble3",
+        "SquaredButtonDouble4"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "OurServicesTab",
+    "info": null,
+    "invokedProperty": "image",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b82b1020a7df4bc79f6d0dc914f25656",
+    "layouttype": 2,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "oninit": "AS_Tab_b482d5f0b8694a06a120842ef5e0eaf0",
+    "paddinginpixel": false,
+    "parent": "TabPane0c425fd75aa5d41",
+    "pf": "HomePage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 1,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabname": "Our Services",
+    "tabpaneId": "TabPane0c425fd75aa5d41",
+    "wType": "Tab"
+}

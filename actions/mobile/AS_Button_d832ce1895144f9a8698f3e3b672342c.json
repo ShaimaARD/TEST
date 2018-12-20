@@ -1,0 +1,29 @@
+{
+    "AS_Button_d832ce1895144f9a8698f3e3b672342c": {
+        "id": "AS_Button_d832ce1895144f9a8698f3e3b672342c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomePage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a822a8ca4ed1427a970905cc1b2b4b45"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___faff63299dc245a5b1fde7d029bfcbf4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "JobApplicationPage",
+            "formKUID": "e1b953f403844ba0b3d4d0193a92221f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

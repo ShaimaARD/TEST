@@ -1,0 +1,242 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "man1.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "General Surgery"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ahmad Ali Mohammad"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "woman1.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pediatric"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fatima Salem"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "man2.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ophthalmologist"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ayman Saber"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "man3.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Psychiatrist"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Omar Mahmoud"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "woman2.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dermatologist"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zaynab Ahmad"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "woman3.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Orthopedic"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Maryam Aziz"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "man4.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ophthalmologist"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Salem Mohammad"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "man5.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Psychiatrist"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Suliman Ali"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "man6.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pediatric"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ashraf Salah"
+            }
+        },
+        {
+            "Image0e70b9efb5e1a40": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label0f6b5618cac574e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Label0i319112af96f4b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "c795e56e90134c1bbd51855795c36ed3",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0a92e3a9e4db646",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dd3434a4517440e69d1f5818a93a12af",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "DoctorsPage",
+    "pf": "DoctorsPage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "c795e56e90134c1bbd51855795c36ed3",
+    "rowcounter": 9,
+    "rowfocusskin": "s6fcea9be1f448f188b75164b53c142f",
+    "rowskin": "scc3ba071511414fb5f109faa8b4dfe6",
+    "rowtemplate": "FBox0aa66c7b9d7d04a",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s4d36433360c4e44ab58086ffc6583f7",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Image0e70b9efb5e1a40": "Image0e70b9efb5e1a40",
+        "Label0f6b5618cac574e": "Label0f6b5618cac574e",
+        "Label0i319112af96f4b": "Label0i319112af96f4b"
+    }
+}

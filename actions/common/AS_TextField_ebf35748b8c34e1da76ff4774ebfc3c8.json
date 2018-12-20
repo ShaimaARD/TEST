@@ -1,0 +1,26 @@
+{
+    "AS_TextField_ebf35748b8c34e1da76ff4774ebfc3c8": {
+        "id": "AS_TextField_ebf35748b8c34e1da76ff4774ebfc3c8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "KUID": "u8c69de7d2464ab18baf73691853ffc1",
+            "name": "uwu8c69de7d2464ab18baf73691853ffc1",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e76e2dff1de94bd9ad4b01e0e4f9e55d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//If it is not empty then check for email validation\nif(/^\\s*$/.test(this.view.txtEmailS.text))\n//Reset the skin to Normal since the textbox is empty\n   {\n\t  self.view.txtEmailS[\"skin\"] = \"skEmail\"\n      return    \n   }\n   else\n   {\n\tif (/^\\w+([\\.-]?\\ w+)*@\\w+([\\.-]?\\ w+)*(\\.\\w{2,3})+$/.test(this.view.txtEmailSLI.text))\n\t\t{\n\t\t  self.view.txtEmailS[\"skin\"] = \"skEmail\"\n\t\t}\n\telse\n\t  {\n\t\t  self.view.txtEmailS[\"skin\"] = \"skEmailRed\"\n\n\t}     \n   }\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "22.50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sbec56b3927240bf96d1763f34c01c50",
+    "_top_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "ContainerLeft2",
+        "ConatinerRight2"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "SquaredButtonDouble2",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cf5e0b5acab54974b3a08cf8bc9a2fea",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "OurServicesTab",
+    "pf": "HomePage",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabpaneId": "TabPane0c425fd75aa5d41",
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

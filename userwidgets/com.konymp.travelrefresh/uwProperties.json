@@ -1,0 +1,256 @@
+{
+    "classname": "travelrefresh",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "kuid": "b48bab3b8a514c698a4ae210b4c3372a",
+                    "paramList": [],
+                    "propertyKey": "show",
+                    "pw": {
+                        "displayName": "show",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a534f08323a94b97b8fa07aaa3f26933",
+                    "type": "event"
+                },
+                {
+                    "kuid": "d20771ad3d434266a80b7bb397b4ba38",
+                    "paramList": [],
+                    "propertyKey": "hide",
+                    "pw": {
+                        "displayName": "hide",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a534f08323a94b97b8fa07aaa3f26933",
+                    "type": "event"
+                },
+                {
+                    "kuid": "d8b3f3ba74094a2c900d4ed967b97bc2",
+                    "paramList": [],
+                    "propertyKey": "isShown",
+                    "pw": {
+                        "displayName": "isShown",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a534f08323a94b97b8fa07aaa3f26933",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [
+                "Image Source ",
+                "Animation Duration"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "5",
+                    "group": "Animation Duration",
+                    "kuid": "ca5b85a8b4324b1d9e8865183e04c6eb",
+                    "originalPropertyKey": "planeDuration",
+                    "propertyIndex": 1,
+                    "propertyKey": "planeDuration",
+                    "pw": {
+                        "displayName": "Plane Duration",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a534f08323a94b97b8fa07aaa3f26933",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "5",
+                    "group": "Animation Duration",
+                    "kuid": "i3c1646ad52943a1ab340cf997099a35",
+                    "originalPropertyKey": "sunDuration",
+                    "propertyIndex": 2,
+                    "propertyKey": "sunDuration",
+                    "pw": {
+                        "displayName": "Sun Duration",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a534f08323a94b97b8fa07aaa3f26933",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "4",
+                    "group": "Animation Duration",
+                    "kuid": "iea466ccdeb74d1cbee2184062600b29",
+                    "originalPropertyKey": "skyDuration",
+                    "propertyIndex": 3,
+                    "propertyKey": "skyDuration",
+                    "pw": {
+                        "displayName": "Sky Duration",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a534f08323a94b97b8fa07aaa3f26933",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "5",
+                    "group": "Animation Duration",
+                    "kuid": "e09f103792ba4f638dcc0949285e9fca",
+                    "originalPropertyKey": "bigCloudDuration",
+                    "propertyIndex": 4,
+                    "propertyKey": "bigCloudDuration",
+                    "pw": {
+                        "displayName": "BigCloud Duration",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a534f08323a94b97b8fa07aaa3f26933",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "Image Source ",
+                    "kuid": "i1a45bc1f9de494ea1644f9d503a3603",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 1,
+                    "propertyKey": "sunImageSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "displayName": "Sun Image Source",
+                        "srcWidget": "imgSunTravelRefresh",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "f7675be48aaa458cb429f92fe4c53613"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "aa3a505744b341d38601b4af7a8294c1",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 1,
+                    "propertyKey": "backgroundSkin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "displayName": "Background Skin",
+                        "srcWidget": "flxBackground",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "e94b687144f648208e12c1e5aa60f905"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Image Source ",
+                    "kuid": "b30b0246f8824f98967a660eed9ec89e",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 2,
+                    "propertyKey": "planeImageSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "displayName": "Plane Image Source",
+                        "srcWidget": "imgPlaneTravelRefresh",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "a5fbfa6a72994ba19edc3adeaa6ea408"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Image Source ",
+                    "kuid": "e43a97f10ed343f6b50063a626ed9780",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 3,
+                    "propertyKey": "bigCloudImageSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "displayName": "BigCloud Image Source",
+                        "srcWidget": "imgBigCloudTravelRefresh",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "e12a0f2b53b242f2bd05edd64c9f9712"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Image Source ",
+                    "kuid": "g51ee79e022f468ab9b460f730b7ee5d",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 4,
+                    "propertyKey": "skyImageSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "displayName": "Sky Image Source",
+                        "srcWidget": "imgSky1TravelRefresh",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "ad5deeb9fc5343c9acfd2f07500dc473"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.konymp",
+    "version": "1.0.0"
+}

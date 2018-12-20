@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "5"
+    },
+    "_skin_": "sdec9d86a2db4e3fbbe9fdf2089600ca",
+    "_text_": "Doctors",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "enablehapticfeedback": false,
+    "focusskin": "s7a79ad8926d4a6fab933e802d751939",
+    "id": "DoctorsButton",
+    "info": null,
+    "isvisible": true,
+    "kuid": "id2603cd5cb6424480119031fd8b4fd8",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ef723911417d4bde9f28df7f8b88f5dc",
+    "parent": "ContainerLeft",
+    "pf": "HomePage",
+    "tabpaneId": "TabPane0c425fd75aa5d41",
+    "wType": "Button",
+    "zindex": 1
+}
